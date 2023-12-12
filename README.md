@@ -1,6 +1,6 @@
 # unown
 
-# SciFact :
+# SciFact
 You need Multivers in order to run inference on the generated code, as well as generating claims
 
 You can perform
