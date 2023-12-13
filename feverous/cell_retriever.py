@@ -2,8 +2,8 @@ import sys
 import os
 
 # Get the current working directory
-cwd = os.getcwd()
-os.chdir("/homes/bussotti/feverous_work/feverousdata/feverous")
+# cwd = os.getcwd()
+# os.chdir("")#YOUR FEVEOUR DIRECTORY
 
 # Print the current working directory
 print("Current working directory: {0}".format(cwd))
